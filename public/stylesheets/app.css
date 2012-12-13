@@ -1,0 +1,12 @@
+body{
+      color:black;
+	  backgroung-color:#ff345;
+}
+
+h1 {
+      font-family:"MyriadPro", Helvetica;
+      text-sahdow: 0 1px;
+      font-size:3;
+	  padding:0.5em 0 0;
+	  text-transform:uppercase;
+}
